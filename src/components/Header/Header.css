@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1600px;
+}
+
+.header__container {
+  position: relative;
+  width: 100%;
+  min-height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo {
+  margin-left: 200px;
+  height: 55px;
+}
+
+.header__burger-menu {
+  margin-right: 200px;
+  background: none;
+  height: 32px;
+  width: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.header__burger-menu:hover {
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+
+.header__logo:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
