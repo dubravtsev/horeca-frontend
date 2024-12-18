@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/horeca-frontend/static/css/main.02615c9b.css",
+    "main.js": "/horeca-frontend/static/js/main.75860d84.js",
+    "static/media/GHELogo.svg": "/horeca-frontend/static/media/GHELogo.a4a5206cfef28ac6399e3e36daa3dcb6.svg",
+    "static/media/RobotoSlab-Light.ttf": "/horeca-frontend/static/media/RobotoSlab-Light.acad4001c48971a95eb3.ttf",
+    "static/media/SchastyeLogo.svg": "/horeca-frontend/static/media/SchastyeLogo.aa2f2adc812591b8014b13a7f085482d.svg",
+    "static/media/SpecsLogo.svg": "/horeca-frontend/static/media/SpecsLogo.69b053314cda6ed12a0d0e793ab1eb96.svg",
+    "static/media/selectionLogo.svg": "/horeca-frontend/static/media/selectionLogo.3d62da07affe17cd24902c102624fe7c.svg",
+    "static/media/WawelbergLogo.svg": "/horeca-frontend/static/media/WawelbergLogo.fa043eb3b21cc5d6f3f239ed37aa45d6.svg",
+    "static/media/developmentLogo.svg": "/horeca-frontend/static/media/developmentLogo.829448eae451c14baa860b743871380d.svg",
+    "static/media/studiLogo.svg": "/horeca-frontend/static/media/studiLogo.5cef6b12b1350e5d34c2d2af25a52c78.svg",
+    "static/media/puzzleAnimation.svg": "/horeca-frontend/static/media/puzzleAnimation.0125c7b2182cd3c05d56be65262f2680.svg",
+    "static/media/auditLogo.svg": "/horeca-frontend/static/media/auditLogo.4cf9c4bd8ee9b6a021d1a785bee68e37.svg",
+    "static/media/BurgerLogoHoreca.svg": "/horeca-frontend/static/media/BurgerLogoHoreca.c8ae84da6eba8829bd117180776ba2a0.svg",
+    "static/media/CrownePlazaLogo.svg": "/horeca-frontend/static/media/CrownePlazaLogo.5def729ecd66baf83a8c44179643dbf9.svg",
+    "static/media/DaskovaLogo.svg": "/horeca-frontend/static/media/DaskovaLogo.9a0b9583b61223f91473527e1895efba.svg",
+    "static/media/logo.svg": "/horeca-frontend/static/media/logo.66a1f7e5879086ad6d3bd78e878d0f31.svg",
+    "static/media/promoBackground.svg": "/horeca-frontend/static/media/promoBackground.0a2cc50ee0bfb3161b97a2bfa8861d39.svg",
+    "static/media/roomsLogo.svg": "/horeca-frontend/static/media/roomsLogo.ccf6b30659c04c72c9c78824bc600b1b.svg",
+    "static/media/popupBackImage.svg": "/horeca-frontend/static/media/popupBackImage.cd708212310f66336023.svg",
+    "static/media/TelegramLogo.svg": "/horeca-frontend/static/media/TelegramLogo.eb0bd278050f69cf937e848daf0b8580.svg",
+    "static/media/WhatsappLogo.svg": "/horeca-frontend/static/media/WhatsappLogo.e35d1eb3a431f3bc2b3ea844c121a03f.svg",
+    "static/media/burgerCloseLogo.svg": "/horeca-frontend/static/media/burgerCloseLogo.b7a7fc474683bb35fd8900854afd09c1.svg",
+    "index.html": "/horeca-frontend/index.html",
+    "static/media/popupCloseLogo.svg": "/horeca-frontend/static/media/popupCloseLogo.6c2a7d21bcefac9fe9a6306714d174ac.svg",
+    "static/media/burgerMenu.svg": "/horeca-frontend/static/media/burgerMenu.bcadf700dd2ee38de77bb3d3aab610a8.svg",
+    "main.02615c9b.css.map": "/horeca-frontend/static/css/main.02615c9b.css.map",
+    "main.75860d84.js.map": "/horeca-frontend/static/js/main.75860d84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02615c9b.css",
+    "static/js/main.75860d84.js"
+  ]
+}
