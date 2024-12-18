@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/horeca-frontend/static/css/main.02615c9b.css",
+    "main.css": "/horeca-frontend/static/css/main.290c1ca4.css",
     "main.js": "/horeca-frontend/static/js/main.a027af49.js",
     "static/media/GHELogo.svg": "/horeca-frontend/static/media/GHELogo.a4a5206cfef28ac6399e3e36daa3dcb6.svg",
     "static/media/RobotoSlab-Light.ttf": "/horeca-frontend/static/media/RobotoSlab-Light.acad4001c48971a95eb3.ttf",
@@ -25,11 +25,11 @@
     "index.html": "/horeca-frontend/index.html",
     "static/media/popupCloseLogo.svg": "/horeca-frontend/static/media/popupCloseLogo.6c2a7d21bcefac9fe9a6306714d174ac.svg",
     "static/media/burgerMenu.svg": "/horeca-frontend/static/media/burgerMenu.bcadf700dd2ee38de77bb3d3aab610a8.svg",
-    "main.02615c9b.css.map": "/horeca-frontend/static/css/main.02615c9b.css.map",
+    "main.290c1ca4.css.map": "/horeca-frontend/static/css/main.290c1ca4.css.map",
     "main.a027af49.js.map": "/horeca-frontend/static/js/main.a027af49.js.map"
   },
   "entrypoints": [
-    "static/css/main.02615c9b.css",
+    "static/css/main.290c1ca4.css",
     "static/js/main.a027af49.js"
   ]
 }
