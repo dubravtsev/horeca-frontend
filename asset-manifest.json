@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/horeca-frontend/static/css/main.02615c9b.css",
-    "main.js": "/horeca-frontend/static/js/main.a027af49.js",
+    "main.css": "/horeca-frontend/static/css/main.69bddfd0.css",
+    "main.js": "/horeca-frontend/static/js/main.2d156f76.js",
     "static/media/GHELogo.svg": "/horeca-frontend/static/media/GHELogo.a4a5206cfef28ac6399e3e36daa3dcb6.svg",
     "static/media/RobotoSlab-Light.ttf": "/horeca-frontend/static/media/RobotoSlab-Light.acad4001c48971a95eb3.ttf",
     "static/media/SchastyeLogo.svg": "/horeca-frontend/static/media/SchastyeLogo.aa2f2adc812591b8014b13a7f085482d.svg",
-    "static/media/SpecsLogo.svg": "/horeca-frontend/static/media/SpecsLogo.69b053314cda6ed12a0d0e793ab1eb96.svg",
     "static/media/selectionLogo.svg": "/horeca-frontend/static/media/selectionLogo.3d62da07affe17cd24902c102624fe7c.svg",
     "static/media/WawelbergLogo.svg": "/horeca-frontend/static/media/WawelbergLogo.fa043eb3b21cc5d6f3f239ed37aa45d6.svg",
     "static/media/developmentLogo.svg": "/horeca-frontend/static/media/developmentLogo.829448eae451c14baa860b743871380d.svg",
@@ -25,11 +24,11 @@
     "index.html": "/horeca-frontend/index.html",
     "static/media/popupCloseLogo.svg": "/horeca-frontend/static/media/popupCloseLogo.6c2a7d21bcefac9fe9a6306714d174ac.svg",
     "static/media/burgerMenu.svg": "/horeca-frontend/static/media/burgerMenu.bcadf700dd2ee38de77bb3d3aab610a8.svg",
-    "main.02615c9b.css.map": "/horeca-frontend/static/css/main.02615c9b.css.map",
-    "main.a027af49.js.map": "/horeca-frontend/static/js/main.a027af49.js.map"
+    "main.69bddfd0.css.map": "/horeca-frontend/static/css/main.69bddfd0.css.map",
+    "main.2d156f76.js.map": "/horeca-frontend/static/js/main.2d156f76.js.map"
   },
   "entrypoints": [
-    "static/css/main.02615c9b.css",
-    "static/js/main.a027af49.js"
+    "static/css/main.69bddfd0.css",
+    "static/js/main.2d156f76.js"
   ]
 }
