@@ -16,12 +16,10 @@
 }
 
 .header__logo {
-  margin-left: 200px;
   height: 55px;
 }
 
 .header__burger-menu {
-  margin-right: 200px;
   background: none;
   height: 32px;
   width: 50px;
